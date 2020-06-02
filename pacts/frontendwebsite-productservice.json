@@ -50,7 +50,7 @@
         "body": {
           "id": "10",
           "type": "CREDIT_CARD",
-          "name": "28 Degrees"
+          "name": "30 Degrees"
         },
         "matchingRules": {
           "$.body": {
